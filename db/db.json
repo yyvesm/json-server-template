@@ -1,16 +1,16 @@
 {
-  "starterPokemon": [
+  "tasks": [
     {
       "id": 1,
-      "name": "Turtwig"
+      "task": "Make a task list."
     },
     {
       "id": 2,
-      "name": "Chimchar"
+      "task": "Delete this task."
     },
     {
       "id": 3,
-      "name": "Piplup"
+      "task": "Complete all tasks!"
     }
   ]
 }
